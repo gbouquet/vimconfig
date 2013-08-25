@@ -1,0 +1,18 @@
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = /home/gaetan/vimconfig/.vim/bundle/ctrlp.vim
+[submodule "nerdtree"]
+	path = nerdtree
+	url = /home/gaetan/vimconfig/.vim/bundle/nerdtree
+[submodule "syntastic"]
+	path = syntastic
+	url = /home/gaetan/vimconfig/.vim/bundle/syntastic
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = /home/gaetan/vimconfig/.vim/bundle/vim-colors-solarized
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = /home/gaetan/vimconfig/.vim/bundle/vim-easymotion
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = /home/gaetan/vimconfig/.vim/bundle/vim-sensible
